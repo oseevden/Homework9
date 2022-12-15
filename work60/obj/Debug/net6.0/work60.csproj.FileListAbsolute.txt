@@ -1,0 +1,15 @@
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.csproj.AssemblyReference.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.AssemblyInfoInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.AssemblyInfo.cs
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.csproj.CoreCompileInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\bin\Debug\net6.0\work60.exe
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\bin\Debug\net6.0\work60.deps.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\bin\Debug\net6.0\work60.runtimeconfig.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\bin\Debug\net6.0\work60.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\bin\Debug\net6.0\work60.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\refint\work60.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\work60.genruntimeconfig.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\work60\obj\Debug\net6.0\ref\work60.dll
